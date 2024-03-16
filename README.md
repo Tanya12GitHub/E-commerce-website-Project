@@ -1,1 +1,1 @@
-# E-commerce-website-Project
+An e-commerce website is a website that allows people to buy and sell physical goods, services, and digital products online. HTML (HyperText Markup Language) and CSS ( Cascading Style Sheets) are scripting languages used to create a web page and web applications. HTML provides web page structure, whereas CSS is mainly used to control web page styling.
